@@ -1,2 +1,5 @@
-# Permainan_Minum_Kartu
+# Permainan_Minum_Kartu 
+
+## Dengan menggunakan kamera untuk mendeteksi kartunya
+
  
